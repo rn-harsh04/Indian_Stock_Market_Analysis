@@ -11,4 +11,4 @@ The dataset contains 51 CSV files of Indian stock data. Each CSV contains stock 
 - Exploratory Data Analysis (EDA)
 - Time Series Analysis
 - Data Visualization
-
+ndian_Stock_Market_Analysis/ │ ├── data/ │ └── *.csv # All stock data files ├── notebooks/ │ └── stock_analysis.ipynb # Jupyter notebook with analysis ├── visualizations/ │ └── visualization.png # Example of the output visualizations ├── README.md ├── requirements.txt 
